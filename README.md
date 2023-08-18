@@ -1,3 +1,5 @@
+<img src="portadaFondo1.jpg" width="100%">
+
 <div align="center">
 <h1 align="center" style="font-size: 24px;">Hi everyone, I'm Miguel Uribe</a> 👋</h1>
 </div>
@@ -39,3 +41,4 @@
 </div>
 <br>
 
+<img src="portadaFondo2.jpg" width="100%">
