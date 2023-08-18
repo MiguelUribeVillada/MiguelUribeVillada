@@ -33,6 +33,8 @@
 # You may contact me at
 <div align="center">
   
+[![Email miguelangeluribevillada@hotmail.com](https://img.shields.io/badge/Hotmail_miguelangeluribevillada@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguelangeluribevillada@hotmail.com)
+
 [![Email miguelangeluribevillada2003@gmail.com](https://img.shields.io/badge/Gmail_miguelangeluribevillada2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangeluribevillada2003@gmail.com)
 </div>
 <br>
