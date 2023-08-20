@@ -5,7 +5,6 @@
 </div>
 <br>
 
-
 # Something about me
 - 💻 Currently pursuing a software engineering degree at the Pontifical Xavierian University in Colombia.
 - 🧠 I passionately engage in self-directed learning about the latest programming languages and advancements in the field of programming.
@@ -45,7 +44,7 @@
 <p align="center">
 <a href="https://github.com/MiguelUribeVillada">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MiguelUribeVillada&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelUribeVillada&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelUribeVillada&layout=compact&theme=algolia&langs_count=8"/>
 </a>
 </p>
 
