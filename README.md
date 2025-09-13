@@ -6,7 +6,7 @@
 <br>
 
 # Something about me
-- 💻 Currently pursuing a software engineering degree at the Pontifical Xavierian University in Colombia.
+- 💻 Graduated as a Systems Engineer from the Pontifical Xavierian University in Colombia.
 - 🧠 I passionately engage in self-directed learning about the latest programming languages and advancements in the field of programming.
 - 🤝 I derive satisfaction from engaging in collaborative team efforts, working together to achieve ambitious objectives.
 - 🕹 Passionate about video game design and lore, exploring their intricate worlds.
@@ -34,7 +34,7 @@
 # You may contact me at
 <div align="center">
   
-[![Email miguelangeluribevillada@hotmail.com](https://img.shields.io/badge/Hotmail_miguelangeluribevillada@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguelangeluribevillada@hotmail.com)
+[![Email miguelangeluribevillada@hotmail.com](https://img.shields.io/badge/Hotmail_miguelangeluribevillada@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguelangeluribevillada2003@hotmail.com)
 
 [![Email miguelangeluribevillada2003@gmail.com](https://img.shields.io/badge/Gmail_miguelangeluribevillada2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangeluribevillada2003@gmail.com)
 </div>
