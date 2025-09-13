@@ -6,15 +6,14 @@
 <br>
 
 # Something about me
-- 💻 Graduated as a Systems Engineer from the Pontifical Xavierian University in Colombia.
-- 🧠 I passionately engage in self-directed learning about the latest programming languages and advancements in the field of programming.
-- 🤝 I derive satisfaction from engaging in collaborative team efforts, working together to achieve ambitious objectives.
-- 🕹 Passionate about video game design and lore, exploring their intricate worlds.
-- 🎨 Digital and traditional artist in my free time, immersing myself in creativity during my free hours.
+- 💻 Graduated as a Systems Engineer from the Pontifical Xavierian University in Colombia, with an emphasis in Visual Computing.  
+- 🧠 Passionate about continuous learning, exploring the latest programming languages, frameworks, and emerging technologies.  
+- 🤝 Thrives in collaborative environments, applying Agile and SCRUM methodologies to achieve ambitious goals.  
+- 🕹 Enthusiast of video game design and lore.  
+- 🎨 Digital and traditional artist in my free time.  
 <br>
 
-
-# Polished Skills
+# Tech Stack
 <div align="center">
   
 ### Programming Languages
@@ -24,17 +23,34 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS 3](https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ### Database Systems
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-</div>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### CI/CD & Testing
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 <br>
 
+</div>
 
 # You may contact me at
 <div align="center">
   
-[![Email miguelangeluribevillada@hotmail.com](https://img.shields.io/badge/Hotmail_miguelangeluribevillada@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguelangeluribevillada2003@hotmail.com)
+[![Email miguelangeluribevillada@hotmail.com](https://img.shields.io/badge/Hotmail_miguelangeluribevillada2003@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:miguelangeluribevillada2003@hotmail.com)
 
 [![Email miguelangeluribevillada2003@gmail.com](https://img.shields.io/badge/Gmail_miguelangeluribevillada2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangeluribevillada2003@gmail.com)
 </div>
